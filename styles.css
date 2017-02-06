@@ -5,6 +5,7 @@
 html {
   background: #555 url(images/city1.jpg) no-repeat center bottom fixed;
   background-size: cover;
+  image-rendering: pixelated;
 }
 
 body {
